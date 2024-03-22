@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#<img src="https://media.giphy.com/media/7sApq40JDeByB7rNGW/giphy.gif?cid=ecf05e47pxb1hmpfzzz1djosrsz0isg2xg2gym237q5nucx3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
+#<img align="center" src="https://media.giphy.com/media/7sApq40JDeByB7rNGW/giphy.gif?cid=ecf05e47pxb1hmpfzzz1djosrsz0isg2xg2gym237q5nucx3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 <h1 align="center">  Flor María Labanda / unsimpleDev ✨ </h1> 
 
 <p align="left">
