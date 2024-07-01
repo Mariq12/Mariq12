@@ -1,22 +1,8 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/Mariq12/Mariq12/assets/101030215/4ddb2bfe-0799-44b7-9dd6-88d56980e191" width="1200" heigth="100"/>
+</div>
 
-<!--
-**Mariq12/Mariq12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-    <img src="https://media.giphy.com/media/7sApq40JDeByB7rNGW/giphy.gif?cid=ecf05e47pxb1hmpfzzz1djosrsz0isg2xg2gym237q5nucx3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
-</p>
-<h1 align="center">  Flor María Labanda / unsimpleDev ✨ </h1> 
+<h1 align="center">  Ing. Flor María Labanda ✨ </h1> 
 
 <p align="left">
   <a href="https://youtube.com/@marilabanda9755?si=YxSoprN0AB0Hpkcp" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
