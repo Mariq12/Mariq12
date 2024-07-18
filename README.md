@@ -20,7 +20,7 @@
 
 🎥 CREADORA DE CONTENIDO para transmitir mis conocimientos 📚 por medio de las redes en base a mucho estudio 😵 y experiencia.
 
-💻 Experiencia en el proceso de desarrollo de software. He contribuido de manera significativa a varios proyectos privados en áreas como móvil con el framework Flutter, microservicios con lenguaje de programación Java y framework Spring Boot.
+💻 Experiencia en el proceso de desarrollo de software. He contribuido de manera significativa a varios proyectos privados en áreas como móvil con el framework Flutter, microservicios con lenguaje de programación Java y framework Spring Boot. Además he creado algunos proyectos con JavaScript y React.
 
 📝 Roles en el ámbito: desarrolladora... y en un futuro quién sabe ☺️
 
@@ -62,7 +62,7 @@
 <br>
 <br><br>
 
-<h2>GitHub <img src="https://img.icons8.com/color/32/000000/github--v1.png" style="vertical-align: middle;"/></h2>
+<h2 align="center">GitHub <img src="https://img.icons8.com/color/32/000000/github--v1.png" style="vertical-align: middle;"/></h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
