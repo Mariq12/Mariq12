@@ -15,6 +15,7 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
+
 <p align="left">
 🎓 INGENIERA EN TECNOLOGÍAS DE LA INFORMACIÓN
 
@@ -61,6 +62,7 @@
   </div>
 <br>
 <br><br>
+<br>
 
 <h2 align="center">GitHub <img src="https://img.icons8.com/color/32/000000/github--v1.png" style="vertical-align: middle;"/></h2>
 <!--- stats & Trophy (start) -->
