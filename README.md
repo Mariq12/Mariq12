@@ -41,18 +41,26 @@
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
-
-<table align="left" >
+<h4>Proyectos creados con:</h4>
+<table align="left">
 <tr border="none">
-  <td width="25%" align="center">
+  <td width="65%" align="center">
+    JavaScript y React
     <p align="center">
         <a href="https://youtu.be/m5eRqQOWpxs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Mariq12"  /></a>
     </p>       
     <p align="center">
       <a href="https://github.com/Mariq12/login-dos" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@Mariq12" /></a>
-    </p>       
- </td>
- <td width="25%" align="center">
+    </p>
+  </td>
+</tr>
+</table>
+
+  
+<table align="left" >
+<tr border="none">
+ <td width="65%" align="center">
+   Dart y Flutter
     <p align="center">
         <a href="https://youtu.be/f_lFOLsdcsk" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Mariq12"  /></a>
     </p>       
