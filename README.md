@@ -21,7 +21,10 @@
 
 🎥 CREADORA DE CONTENIDO para transmitir mis conocimientos 📚 por medio de las redes en base a mucho estudio 😵 y experiencia.
 
-💻 Experiencia en el proceso de desarrollo de software. He contribuido de manera significativa a varios proyectos privados en áreas como móvil con el framework Flutter, microservicios con lenguaje de programación Java y framework Spring Boot. Además he creado algunos proyectos con JavaScript y React.
+💻 Experiencia en el proceso de desarrollo de software. He contribuido de manera significativa a varios proyectos privados en áreas como:
+- Móvil con el framework Flutter, microservicios con lenguaje de programación Java y framework Spring Boot.
+- Aplicación web con el framework Next.js con lenguaje de programación JavaScript, API REST con Node.js con Express.js y base de datos MySQL. 
+- Además he creado algunos proyectos con JavaScript, React y Astro.
 
 📝 Roles en el ámbito: desarrolladora... y en un futuro quién sabe ☺️
 
@@ -34,7 +37,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,spring,php,dart,flutter,py,css,html,js,react,nodejs,mysql,sqlite,firebase,git,github,docker,bootstrap,postman,vscode,linux,ai," />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,spring,php,dart,flutter,py,css,html,js,react,nodejs,mysql,sqlite,firebase,git,github,docker,bootstrap,postman,vscode,linux,ai,astro,express" />
   </a>
 </p>
 <br>
